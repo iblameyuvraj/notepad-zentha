@@ -5,8 +5,8 @@ import { type Metadata } from "next";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "SealNotes: Secure, Lightweight Encrypted Notepad for Privacy",
-  description: "SealNotes: A free, open-source encrypted notepad for secure and private note-taking. Enjoy rich text editing and complete privacy—no login required.",
+  title: "Zentha-Notepad: Secure, Lightweight Encrypted Notepad for Privacy",
+  description: "Zentha-Notepad: A free, open-source encrypted notepad for secure and private note-taking. Enjoy rich text editing and complete privacy—no login required.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
   keywords: [
     "encrypted notepad",

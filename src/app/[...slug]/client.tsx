@@ -289,7 +289,7 @@ export function Client({ params, decryptedData, hash }: ClientProps) {
       <div className="flex flex-col sm:flex-row items-center justify-between w-full gap-4 sm:gap-0">
         <Link href="/">
           <div className="text-lg font-semibold hidden sm:block">
-            SealNotes
+            Zentha-Notepad
           </div>
         </Link>
 
