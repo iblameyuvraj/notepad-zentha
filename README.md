@@ -1,6 +1,6 @@
-# SealNotes
+# zentha notepad
 
-SealNotes is an end-to-end encrypted web-based notepad that stores and manages your notes. 
+zentha notepad is an end-to-end encrypted web-based notepad that stores and manages your notes. 
 
 ## Features
 
@@ -17,7 +17,7 @@ SealNotes is an end-to-end encrypted web-based notepad that stores and manages y
 
 ## Usage
 
-- Visit [https://sealnotes.com/](https://sealnotes.com/)
+- Visit [https://notepad.zentha.in/](https://notpad.zentha.in/)
   
 - Create a new note by entering a unique name for the note’s URL.
 
@@ -35,41 +35,15 @@ SealNotes is an end-to-end encrypted web-based notepad that stores and manages y
 
 - **Privacy:** We do not store or have access to your passwords. Without the correct password, notes cannot be decrypted.
 
-- **No Tracking:** Sealnotes does not track user activity or store unnecessary metadata.
+- **No Tracking:** zentha notepad does not track user activity or store unnecessary metadata.
 
-## Local Setup
-
-- Clone the repo.
-
-```
-git clone https://github.com/harshsbhat/sealnotes.git
-cd sealnotes
-```
-
-- Install dependencies:
-
-```
-pnpm install
-```
-
-- Create a `.env` file:
-
-```
-cp .env.example .env
-```
-
-- Run the project: 
-
-```
-pnpm local
-```
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/harshsbhat/sealnotes?tab=MIT-1-ov-file).
+This project is licensed under the [MIT License](https://github.com/iblameyuvraj/notepad-zentha?tab=MIT-1-ov-file).
 
 ## Support
 
-For support or inquiries, please contact us at <a href="mailto:support@sealnotes.com">support@sealnotes.com</a>
+For support or inquiries, please contact us at <a href="mailto:hi@zentha.in">hi@zentha.in</a>
 
 
