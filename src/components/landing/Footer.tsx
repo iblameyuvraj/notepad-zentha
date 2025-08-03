@@ -8,34 +8,16 @@ export function Footer() {
         <p className="mb-2">
           Built by{' '}
           <Link 
-            href="https://twitter.com/HarshBhatX" 
+            href="https://yuvraj.site" 
             target="_blank" 
             rel="noopener noreferrer"
             className="font-medium text-gray-700 hover:text-gray-900 transition-colors"
           >
-            @HarshBhatX
-          </Link>{' '}
-          and {' '}
-          <Link 
-            href="https://twitter.com/AbhishekBelgaon" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="font-medium text-gray-700 hover:text-gray-900 transition-colors"
-          >
-            @AbhishekBelgaon
+            yuvraj
           </Link>{' '}
         </p>
         <p>
-          Sealnotes is open-source on{' '}
-          <Link 
-            href="https://github.com/harshsbhat/sealnotes" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="font-medium text-gray-700 hover:text-gray-900 transition-colors"
-          >
-            Github
-          </Link>{' '}
-          and uses{' '}
+          Zentha-Notepad uses{' '}
           <Link 
             href="https://upstash.com" 
             target="_blank" 
@@ -44,7 +26,7 @@ export function Footer() {
           >
             Upstash
           </Link>{' '}
-          for storing encrypted data
+          for storing encrypted data.
         </p>
       </div>
     </footer>

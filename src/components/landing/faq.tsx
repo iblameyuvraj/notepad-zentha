@@ -6,8 +6,8 @@ import { ChevronDown } from 'lucide-react'
 // FAQ data
 const faqs = [
   {
-    question: "What is zero knowledge app?",
-    answer: "A Zero-Knowledge (ZK) App leverages zero-knowledge proofs (ZKPs) to ensure data privacy and security while enabling verifiable interactions. We don't store any of your personal information or your password. We only encrypt text which never leaves your browser."
+    question: "What is Zentha-Notepad?",
+    answer: "Zentha-Notepad is a lightweight encrypted notepad with rich text support. It is a zero-knowledge app, which means that we don't store any of your personal information or your password. We only encrypt text which never leaves your browser."
   },
   {
     question: "How can I recover my site if I forget my password?",

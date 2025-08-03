@@ -6,7 +6,7 @@ export default function HowToUse() {
   const steps = [
     {
       title: "Step 1",
-      description: "Create your own notepad at sealnotes.com/your-name.",
+      description: "Create your own notepad at notepad.zentha.in/your-name.",
     },
     {
       title: "Step 2",
